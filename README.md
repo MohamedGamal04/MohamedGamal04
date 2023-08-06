@@ -4,7 +4,7 @@
 <div>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=casper&label=Profile%20views&color=6517c4&style=flat-square" alt="casper" width="130" height="28"/>
-<a href="https://twitter.com/casper" target="blank"><img src="https://img.shields.io/twitter/follow/casper?logo=twitter&style=for-the-badge" alt="casper" /></a> </p>
+<a href="https://twitter.com/ICasperU" target="blank"><img src="https://img.shields.io/twitter/follow/ICasperU?logo=twitter&style=for-the-badge" alt="casper" /></a> </p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=casper&show_icons=true&theme=dark&locale=en&layout=compact" alt="casper" /></p>
 </div>
 
